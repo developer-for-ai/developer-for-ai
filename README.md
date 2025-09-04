@@ -94,7 +94,7 @@ This profile represents an exploration into the future of software development. 
 
 <div align="center">
 
-*"The best way to predict the future is to code it... with AI."* �
+*"The best way to predict the future is to code it... with AI."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=developer-for-ai&color=purple&style=flat-square&label=Profile+Views)
 
